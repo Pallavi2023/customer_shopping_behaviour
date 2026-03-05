@@ -60,7 +60,7 @@ Power BI dashboard includes:
 - Express shipping customers tend to make higher value purchases.
 
 ## Project Files
-- Dataset
+- Python code
 - SQL Queries
 - Power BI Dashboard
 - Project Presentation (PPT)
